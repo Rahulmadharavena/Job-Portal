@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Online Job Portal</title>
 </head>
 <body>
 
